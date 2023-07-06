@@ -20,8 +20,8 @@ Data Scientist with solid analytical thinking and problem-solving skills develop
 of experience in the industrie and 3+ of academic research in
 scientific computation and theoretical physics.
 """
-EMAIL = "jdrincone@gmail.com"
-CEL = "(+57) 300 364-8095"
+EMAIL = "emontoyab93@gmail.com"
+CEL = "(+57) 350 624-5693"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/jdrincone/",
     "GitHub": "https://github.com/jdrincone",
