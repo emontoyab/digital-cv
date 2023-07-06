@@ -12,9 +12,9 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Juan David Rincón"
+PAGE_TITLE = "Digital CV | Esteban Montoya Betancur"
 PAGE_ICON = ":wave:"
-NAME = "Juan David Rincón"
+NAME = "Esteban Montoya Betancur"
 DESCRIPTION = """
 Data Scientist with solid analytical thinking and problem-solving skills developed though 2+ 
 of experience in the industrie and 3+ of academic research in
